@@ -152,6 +152,6 @@ echo         main() >> calculator.py
 echo. >> calculator.py
 echo if __name__ == "__main__": >> calculator.py
 echo     main() >> calculator.py
-
+echo.
 python calculator.py
 pause
